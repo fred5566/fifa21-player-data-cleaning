@@ -29,14 +29,14 @@ The dataset file is expected at:
 rawDataset/fifa21 raw data.csv
 ```
 
-The raw dataset is not included in this repository at this stage. Before
-redistributing it, check the original source's terms and license, and
-add the source attribution here:
+## Dataset Source and Attribution
+Dataset Source: The FIFA 21 dataset was obtained from Kaggle. Please refer to the original dataset page for its source and licensing information.
 
--   **Dataset source:** Add the original dataset URL and creator/source
-    name.
--   **License / usage terms:** Confirm the dataset's redistribution
-    conditions before sharing the raw file.
+- **Dataset source:** [FIFA 21 Player Dataset](https://www.kaggle.com/datasets/ahmedmmmahmoud/fifa-21-player-dataset)
+- **Platform:** Kaggle
+
+
+The raw dataset is not included in this repository. Please visit the original Kaggle page to access it.
 
 ## Tools and Libraries
 
@@ -163,10 +163,6 @@ fifa21-player-data-cleaning/
 └── .gitignore
 ```
 
-If the raw dataset cannot be redistributed, do not upload it. Keep the
-notebook's input path documented and explain how someone can obtain the
-dataset from its original source.
-
 ## How to Run the Notebook
 
 1.  Clone or download this repository.
@@ -206,6 +202,6 @@ dataset from its original source.
 
 ## Author
 
-**Your Name**
+**Farid Hassani**
 
-Add your GitHub profile link here.
+https://github.com/fred5566

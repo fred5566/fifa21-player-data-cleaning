@@ -158,7 +158,7 @@ fifa21-player-data-cleaning/
 ├── README.md
 ├── FIFA21_Player_Data_Cleaning_Updated.ipynb
 ├── rawDataset/
-│   └── fifa21 raw data.csv       # Keep out of GitHub unless redistribution is permitted
+│   └── fifa21 raw data.csv       
 │
 └── .gitignore
 ```
